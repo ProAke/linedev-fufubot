@@ -1,2 +1,1 @@
-# linedev-fufubot
-Fufubot by LineDev
+# LINE-BOT-PHP-Starter
